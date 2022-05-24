@@ -1,0 +1,39 @@
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Guna.UI.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\Emiliano\Desktop\Pet Shop\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Billings.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Customers.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Employees.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Home.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Products.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Splash.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\witch\Source\Repos\Pet-Shop-Management-System-Using-C-.Net-and-SQL-Server\PetShop\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
